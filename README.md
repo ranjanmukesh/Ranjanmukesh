@@ -48,6 +48,6 @@ Delivered global financial services, order processing, and infrastructure soluti
 - **Post Graduate Diploma in Advanced IT** — IIIT Pune (2002)
 - **Bachelor of Engineering** — Nagpur University (2000)
 
-	  ---
+> **Currently seeking Solana developer roles or collaborations.**  
+> Love to chat about on-chain apps, Rust best practices, or building in the Solana ecosystem — feel free to reach out! 🚀🦀⛓️
 
-	  *Currently seeking Solana developer roles or collaborations. Love to chat about on-chain apps, Rust best practices, or building in the Solana ecosystem — feel free to reach out!* 🚀🦀⛓️
