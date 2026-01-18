@@ -2,7 +2,7 @@
 **Blockchain Developer | Rust Enthusiast | 15+ Years Enterprise Engineering**  
 *Pune, India* • [Codeberg](https://codeberg.org/mranjan7) • [Dev.to](https://dev.to/mukesh-ranjan-dev) • [X](https://x.com/chainweaver7)
 
-> Seasoned software engineer transitioning to blockchain with a strong focus on **Solana**. Leveraging deep experience in secure, scalable enterprise systems to build on-chain programs with **Rust** and **Anchor**. Actively shipping open-source Solana tools and smart contracts.
+> Seasoned software engineer transitioning to blockchain with a strong focus on **rust based blockchain ecosystem**. Leveraging deep experience in secure, scalable enterprise systems to build on-chain programs with **Rust** and **Anchor**. Actively shipping open-source Solana tools and smart contracts.
 
 ## 🔗 Quick Links
 - 🦀 [My Solana & Rust Projects on Codeberg](https://codeberg.org/mranjan7)
