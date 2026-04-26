@@ -1,11 +1,11 @@
 # Mukesh Ranjan  
-**Blockchain Developer | Rust Enthusiast | 15+ Years Enterprise Engineering**  
-*Pune, India* • [Codeberg](https://codeberg.org/mranjan7) • [Dev.to](https://dev.to/mukesh-ranjan-dev) • [X](https://x.com/chainweaver7)
+**Blockchain Developer | Solidity & Rust | 15+ Years Enterprise Engineering**  
+*Pune, India*  • [X](https://x.com/chainweaver7) • [Dev.to](https://dev.to/mukesh-ranjan-dev) • [Codeberg](https://codeberg.org/mranjan7)
 
-> Seasoned software engineer transitioning to blockchain with a strong focus on **rust based blockchain ecosystem**. Leveraging deep experience in secure, scalable enterprise systems to build on-chain programs with **Rust** and **Anchor**. Actively shipping open-source Solana tools and smart contracts.
-
-## 🔗 Quick Links
-- 🦀 [My Solana & Rust Projects on Codeberg](https://codeberg.org/mranjan7)
+> Seasoned software engineer with 15+ years in secure, scalable enterprise systems, now actively building in blockchain.  
+> Currently shipping production-grade smart contracts in **Solidity** on Base (parametric crop insurance dApp — live on Mainnet with Chainlink oracles).  
+> Strong hands-on experience with the **Rust** ecosystem (Solana, Anchor) and equally open to both **Solidity** and **Rust**-based blockchain projects.  
+> Passionate about decentralized solutions for real-world problems like climate resilience and agriculture.
 
 ## Blockchain & Recent Projects (2025–Present)
 
