@@ -1,6 +1,6 @@
 # Mukesh Ranjan  
 **Blockchain Developer | Solidity & Rust | 15+ Years Enterprise Engineering**  
-*Pune, India*  • [X](https://x.com/chainweaver7) • [Dev.to](https://dev.to/mukesh-ranjan-dev) • [Codeberg](https://codeberg.org/mranjan7)
+*Pune, India*  • [X](https://x.com/chainweaver7) • [Linkedin]{https://www.linkedin.com/in/mukesh-ranjan-8a98133b1/) • [Dev.to](https://dev.to/mukesh-ranjan-dev) • [Codeberg](https://codeberg.org/mranjan7)
 
 > Seasoned software engineer with 15+ years in secure, scalable enterprise systems, now actively building in blockchain.  
 > Currently shipping production-grade smart contracts in **Solidity** on Base (parametric crop insurance dApp — live on Mainnet with Chainlink oracles).  
