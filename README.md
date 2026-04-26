@@ -28,7 +28,7 @@ Decentralized parametric crop insurance dApp on Base Mainnet that automatically 
 
 ## Skills
 
-**Blockchain & Rust**  
+**Blockchain**  
 Solidity • Chainlink • Foundry • Base • Rust • Solana • Anchor • Smart Contracts • PDAs • Devnet Deploys • CI/CD
 
 **Enterprise & Transferable**  
