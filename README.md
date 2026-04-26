@@ -8,11 +8,13 @@
 - 🦀 [My Solana & Rust Projects on Codeberg](https://codeberg.org/mranjan7)
 
 ## Blockchain & Recent Projects (2025–Present)
+
 - **Paramora – Parametric Crop Insurance** (Base • Solidity • Chainlink • Foundry)
 Decentralized parametric crop insurance dApp on Base Mainnet that automatically triggers instant ETH payouts to farmers based on rainfall thresholds (drought/excess rain) using Chainlink oracles and weather data.
     → Features: MetaMask-integrated frontend for policy purchase & monitoring, fully on-chain transparent execution, live MVP deployed at `0x55C6E9047205aE8457F624390FCa4236EED07527`.
     → Targeting climate resilience for smallholder farmers in rainfed regions (e.g., Maharashtra). Live demo: [Frontend](https://ranjanmukesh.github.io/Parametric-crop-insurance/frontend/web/index.html)
     → [Repository](https://github.com/ranjanmukesh/Parametric-crop-insurance)
+    
 - **On-Chain Profiles Program** (Solana • Anchor • Rust)  
   Decentralized user profiles for dApps (identity, social primitives).  
     → Secure instructions, overflow checks, CI/CD for devnet deploys.  
